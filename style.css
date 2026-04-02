@@ -1,0 +1,7 @@
+body {
+    /* background-image: url('ASSETS/image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; */
+    clip-path: polygon(50% 0%,100% 10%,50% 100%, 0% 50%);
+}
